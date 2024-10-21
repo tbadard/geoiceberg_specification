@@ -1,0 +1,28 @@
+site_name: GeoIceberg specification
+site_url: https://geoiceberg.org
+repo_url: https://github.com/tbadard/geoiceberg_specification
+repo_name: GitHub
+site_description: GeoIceberg specification details how to add support for a geometric data type in Apache Iceberg to store geospatial data in an Iceberg table.
+site_author: Thierry Badard
+nav:
+  - index.md
+  - Accueil: index.fr.md
+theme: 
+  name: readthedocs
+  #locale: fr
+plugins:
+  - search
+  - i18n:
+      languages:
+        fr: "Français"
+        en: "English"
+      default_language: 'en'
+#extra:
+#  alternate:
+#    - name: "English (Home)"
+#      link: ""
+#      lang: en
+#
+#    - name: "Français (Accueil)"
+#      link: fr/
+#      lang: fr
