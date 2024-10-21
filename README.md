@@ -10,7 +10,7 @@ This repository holds the source files of the https://geoiceberg.org website. Th
 
 To build the website, you have to install the mkdocs tool and plugins for internationalization first.
 
-MkDocs requires a recent version of [Python] and the Python package manager, [pip], to be installed on your system.
+MkDocs requires a recent version of Python and the Python package manager, pip, to be installed on your system.
 
 You can check if you already have these installed from the command line:
 
